@@ -15,7 +15,7 @@ namespace ZarOyunu
         int sum1 = 0;
         int sum2 = 0;
 
-        readonly string link = "C:\\Users\\LenovoNB\\source\\repos\\ZarOyunu\\ZarOyunu\\Images\\";
+        readonly string link = "..\\..\\..\\Images\\";
 
         private void Form1_Load(object sender, EventArgs e)
         {
